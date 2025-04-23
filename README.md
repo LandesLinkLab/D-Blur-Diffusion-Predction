@@ -46,12 +46,4 @@ This repository supports the methods and results presented in the following pape
 
 If you find this work useful, please consider citing our paper.
 
-## Contact
-
-If you have any questions, feel free to email us: 
-
-**Dongyu Fan**  
-University of Illinois Urbana-Champaign  
-dongyuf2@illinois.edu  
-
 
