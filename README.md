@@ -41,7 +41,7 @@ Our adaptation modifies the U-Net to predict both particle localization and diff
 This repository supports the methods and results presented in the following paper:
 
 > **D-Blur: A Deep Learning-Enhanced Approach for Resolving Fast Diffusion Dynamics in Single Molecule Microscopy with Motion Blur**  
-> Dongyu Fan, Nikita Kovalenko, Jagriti Chatterjee, Subhojyoti Chatterjee, Cong Xu, and Emil N. Gillett  
+> Dongyu Fan, Nikita Kovalenko, Jagriti Chatterjee, Subhojyoti Chatterjee, Cong Xu, Emil N. Gillett, Christy F. Landes;
 > *Submitted to Chemical & Biomolecule Imaging, 2025.*
 
 If you find this work useful, please consider citing our paper.
